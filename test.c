@@ -1,4 +1,4 @@
-Rocky Chowdhury
+
 #include <stdio.h>
 int main()
 {
